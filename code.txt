@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <marquee<title>Metalurgico</title></marquee>
+</head>
+<img src="se.jpg" width="120px"
+style="position: absolute; width: 100px; height: auto; top: 10px; right: 10px;">
+<body > 
+    <body bgcolor="green" style="color: hsl(0, 6%, 94%); font-size:20px;;"></body>
+    
+    <center><h1>Metalurgico</h1></center> 
+    <p><strong><u>Metalurgico basquet</u></strong></p>
+     <p>Deportes del club</p>
+        <ul>                     
+        <li>Futsal</li>
+        <li>Basquet</li>
+        <li>voley</li>
+        
+        <p>Campeonatos</p>
+        <ol>
+        <li>2021 U17masc</li>
+        <li>2023 U13masc</li>
+        <li>2023 U15masc</li> 
+        <p>Categorias</p>  
+        <ul type="circle">
+            <li>u13</li> 
+            <li>u15</li> 
+            <li>u17</li> 
+            <li>u21</li>
+            <li>Mayores</li>  
+        </ul>
+</body>
+</html>
